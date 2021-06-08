@@ -1,0 +1,5 @@
+{
+  "num_workers": 2,
+  "spark_version": "8.2.x-cpu-ml-scala2.12",
+  "instance_pool_id": "0607-114814-fiend827-pool-7fYD5QSw"
+}
